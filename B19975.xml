@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the suppression of coffee-houses.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19975</idno><idno type="EEBO-CITATION">99886711_191309</idno>
+  <idno type="VID">191309</idno>
+  <idno type="EEBO-PROQUEST">2248538640</idno>
+  
+            <idno type="STC">Wing C3515</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[120]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[119]</idno>
+            <idno type="STC">ESTC R226464</idno>
+            <idno type="PROQUEST">ocm99886711</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886711e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191309)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[120]; C18:2[119])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the suppression of coffee-houses.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall, this nine and twentieth day of December 1675. in the seven and twentieth year of our reign.</note>
+                  <note>Steele notation: Arms 87  late Realm 2) next that.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coffeehouses --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sedition --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191309:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1675</figDesc>
+                  <p>HONI · SOIT · QVI · MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON DROIT.</p>
+               </figure> By the King. A PROCLAMATION FOR THE Suppression of Coffee-Houses.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it is most apparent, that the Multitude of Coffee-houses of late years set up and kept within this Kingdom, the Dominion of <hi>Wales,</hi> and the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and the great resort of Idle and disaffected persons to them, have produced very evil and dange<g ref="char:EOLhyphen"/>rous effects; as well for that many Tradesmen and others, do therein mis-spend much of their time, which might and probably would other<g ref="char:EOLhyphen"/>wise be imployed in and about their Lawful Callings and Affairs; but also, for that in such Houses, and by occasion of the meetings of such persons therein, divers False, Malitious and Scandalous Reports are devised and spread abroad, to the Defamation of His Majesties Government, and to the Disturbance of the Peace and Quiet of the Realm; His Majesty hath thought it fit and necessary, That the said Coffee-Houses be (for the future) Put down and Suppressed, and doth (with the Advice of His Privy Council) by this His Royal Proclamation, Strictly Charge and Command all manner of persons, That they or any of them do not presume from and after the Tenth day of <hi>January</hi> next ensuing, to keep any Publick Coffee-house, or to Vtter or sell by retail, in his, her or their house or houses (to be spent or consumed within the same) any Coffee, Chocolet, Sherbett or Tea, as they will answer the contrary at their utmost perils.</p>
+            <p>And for the better accomplishment of this his Majesties Royal Pleasure, His Majesty doth hereby will and require the Iustices of Peace within their several Counties, and the Chief Magistrates in all Cities and Towns Corporate, that they do at their next respective General Sessions of the peace (to be holden within their several and respective Counties, Divisions and Precincts) recall and make void all Licenses at any time heretofore Granted, for the selling or Re<g ref="char:EOLhyphen"/>tailing of any Coffee, Chocolet, Sherbett or Tea. And that they or any of them do not (for the future) make or grant any such License or Licenses, to any person or persons whatsoever. And his Majesty doth further hereby declare, that if any person or persons shall take upon them, him or her, after his, her or their License or Licenses recalled, or otherwise without License, to sell by retail (as aforesaid) any of the Liquors aforesaid, that then the person or persons so Offending, shall not only be proceeded against, upon the Statute made in the Fifteenth year of His Majesties Reign (which gives the forfeiture of five pounds for every moneth wherein he, she or they shall offend therein) but shall (in case they persevere to Offend) receive the severest punishments that may by Law be inflicted.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>this Nine and twentieth day of <hi>December</hi> 1675. in the Seven and twentieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John Bill,</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
